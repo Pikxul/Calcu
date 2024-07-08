@@ -10,7 +10,7 @@ body {
 @media (min-width: 100px) and (max-width: 680px) {
     
     .calculator {
-        width: 100%;
+        width: 75%;
         height: 63%;
         background-color: #b6b3b3;
         border-radius: 10px;
